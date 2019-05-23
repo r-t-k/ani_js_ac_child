@@ -1,0 +1,116 @@
+@media screen and (max-width: 1000px) {
+	#ani-left-wrap {
+		width: 100%;
+		min-height: 250px;
+		padding: 20px;
+		height: unset;
+	}
+	#animation_outer_wrap {
+		width: 100%;
+		min-width: 50%;
+		min-height: 500px;
+		float: left;
+		right: unset;
+		bottom: unset;
+	}
+
+	#map-desc {
+		width: 85%;
+	}
+
+	#map-desc h3, #map-desc-p-3 {
+		width: 85%;
+	}
+
+	#green_box {
+		width: 75%;
+		bottom: 0;
+		top: unset;
+		left: 0;
+		right: unset;
+		padding: 10px;
+	}
+
+	#green_box .desktop-p {
+		display: none;
+	}
+
+	#green_box .mobile-p {
+		display: initial;
+		text-transform: uppercase;
+		padding-left: unset;
+	}
+
+	.switch_outer_wrap {
+		background-blend-mode: multiply;
+		width: 40%;
+		top: 100%;
+		height: 100%;
+		min-height: 400px;
+		min-width: unset;
+		float: unset;
+		margin: unset;
+		z-index: 2000;
+		display: initial;
+		padding-top: 20px;
+		padding-left: 20px;
+	}
+
+	.switch_wrap {
+		width: 100%;
+	}
+
+	#animation_outer_wrap {
+		width: 100%;
+		min-height: unset;
+		height: 700px;
+		left: 100px;
+		top: -100px;
+	}
+
+	#ani-controls-mobile-toggle {
+		background-blend-mode: multiply;
+		position: absolute;
+		display: initial;
+		width: 25%;
+		bottom: 0;
+		top: unset;
+		right: 0;
+		padding: 10px;
+		height: 70px;
+		border: none;
+		color: white;
+		z-index: 3000;
+	}
+
+	#ani-controls-mobile-toggle i {
+		font-size: 18px;
+	}
+
+	#switch-header {
+		position: absolute;
+		z-index: 2000;
+		color: white;
+		font-size: .7em;
+		top: unset;
+		line-height: 1em;
+	}
+
+	div.switch_wrap:nth-child(2) {
+		margin-top: 60px;
+	}
+
+	.switch_label {
+		display: inline-block;
+		position: relative;
+		top: -50px;
+		width: 100%;
+	}
+	#animation_and_controls {
+		margin-bottom: 500px;
+	}
+	#ani-left-content {
+		width: 100%;
+		height: 350px;
+	}
+}
