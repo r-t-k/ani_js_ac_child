@@ -36,3 +36,5 @@ This by default is set to '/animations'.
     - loader (```this``` library's resource loader)
 *   template (For front end templates, currently supports ac-child shortcode $args)
 *   styles.php (for dynamic styles using php for variables etc.. useful for dynamic resource location.)
+
+### Shortcode example: [TRWD AC Child](TRWD-Shortcode-Example)
