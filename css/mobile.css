@@ -1,5 +1,5 @@
 @media screen and (max-width: 600px) {
-	#animation_outer_wrap {
+	body #animation_outer_wrap {
 		top: unset;
 		width: 1000px;
 		min-height: unset;
@@ -15,7 +15,7 @@
 		display: none;
 		max-height: 400px;
 	}
-	#animation_and_controls {
+	body #animation_and_controls {
 		margin-bottom: 600px;
 	}
 }

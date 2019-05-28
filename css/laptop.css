@@ -1,9 +1,9 @@
 @media screen and  (max-width: 1600px) {
-	#ani-left-wrap {
+	body #ani-left-wrap {
 		width: 60%;
 	}
 
-	#animation_outer_wrap {
+	body #animation_outer_wrap {
 		width: 700px;
 		min-width: 700px;
 		min-height: 700px;
