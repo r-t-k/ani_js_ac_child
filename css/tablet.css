@@ -1,11 +1,28 @@
+@media screen and (max-width: 1150px){
+	#map-desc {
+		width: 50%;
+	}
+}
+@media screen and (max-width: 1050px){
+	body #animation_outer_wrap {
+		width: 600px;
+		min-width: 600px;
+		min-height: 600px;
+		height: 600px;
+		right: -60%;
+		bottom: 40%;
+		float: unset;
+	}
+}
+
 @media screen and (max-width: 1000px) {
-	#ani-left-wrap {
+	body #ani-left-wrap {
 		width: 100%;
 		min-height: 250px;
 		padding: 20px;
 		height: unset;
 	}
-	#animation_outer_wrap {
+	body #animation_outer_wrap {
 		width: 100%;
 		min-width: 50%;
 		min-height: 500px;
@@ -60,7 +77,7 @@
 		width: 100%;
 	}
 
-	#animation_outer_wrap {
+	body #animation_outer_wrap {
 		width: 100%;
 		min-height: unset;
 		height: 700px;
@@ -106,7 +123,7 @@
 		top: -50px;
 		width: 100%;
 	}
-	#animation_and_controls {
+	body #animation_and_controls {
 		margin-bottom: 500px;
 	}
 	#ani-left-content {
