@@ -40,5 +40,3 @@ This by default is set to '/animations'.
     - Meta (registers shortcode param fields as post meta prefixed with 'ani_')
 *   template (For front end templates, currently supports ac-child shortcode $args)
 *   styles.php (for dynamic styles using php for variables etc.. useful for dynamic resource location.)
-
-### Shortcode example: [TRWD AC Child](https://gitlab.it.ardentcreative.com/incubating/tommy/ac-child-lottie-animations-integration/backend/wikis/TRWD-Example-Shortcode)
